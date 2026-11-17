@@ -19,11 +19,11 @@ val signingProps = Properties().apply {
 }
 
 // The app version; versionCode must go up by one with every release.
-val appVersionName = "1.9.7"
-val appVersionCode = 29
+val appVersionName = "1.9.8"
+val appVersionCode = 30
 
 base {
-    archivesName = "FerricPlayer-$appVersionName"
+    archivesName = "FerronicPlayer-$appVersionName"
 }
 
 android {

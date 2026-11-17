@@ -2,6 +2,11 @@
 
 All notable changes to Foldman. Versions follow [semantic versioning](https://semver.org); downloads are on the [releases page](https://github.com/deveshrai/Foldman/releases).
 
+## [1.9.8] Ferronic Player, 2026-11-16
+
+### Changed
+- **The rename.** Ferric Player becomes **Ferronic Player**. Same app, same package, same signing key, so it installs as a normal update. Every printed surface carries the new name: the app label, the deck wordmarks, the cassette shell print, and the amplifier footplate. No behavior changes.
+
 ## [1.9.7] Ferric Player, 2026-11-06
 
 ### Changed

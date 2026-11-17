@@ -209,7 +209,7 @@ private fun ReceiverPlate(
     StackPlate("STEREO RECEIVER", modifier) {
         Row(Modifier.fillMaxSize(), verticalAlignment = Alignment.CenterVertically) {
             Column {
-                Wordmark("FERRIC", 17.sp)
+                Wordmark("FERRONIC", 17.sp)
                 Spacer(Modifier.height(7.dp))
                 VentGrille()
                 Spacer(Modifier.height(6.dp))
@@ -1057,7 +1057,7 @@ private fun AmplifierPlate(
 ) {
     // The maker's line runs along the amp's bottom edge, quiet in the plate's margin:
     // the product and the house behind it, stamped the way real chassis wear their names.
-    StackPlate("INTEGRATED AMPLIFIER", modifier, footLabel = "FERRIC PLAYER · BY PROTECH PRIME CONSULTING") {
+    StackPlate("INTEGRATED AMPLIFIER", modifier, footLabel = "FERRONIC PLAYER · BY PROTECH PRIME CONSULTING") {
         Row(Modifier.fillMaxSize().padding(top = 8.dp)) {
             Column(
                 Modifier.weight(0.30f).fillMaxHeight(),

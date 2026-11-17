@@ -1,12 +1,12 @@
-# Ferric Player
+# Ferronic Player
 
-**Ferric Player, by Protech Prime Consulting**
+**Ferronic Player, by Protech Prime Consulting**
 
-A skeuomorphic remote control for the music apps already on your phone. Ferric Player puts YouTube Music and Apple Music behind one cassette deck face, and on foldables and tablets it becomes a full component stereo stack: receiver, dual cassette deck, CD player, and amplifier. It also plays local audio files.
+A skeuomorphic remote control for the music apps already on your phone. Ferronic Player puts YouTube Music and Apple Music behind one cassette deck face, and on foldables and tablets it becomes a full component stereo stack: receiver, dual cassette deck, CD player, and amplifier. It also plays local audio files.
 
-It streams nothing itself. The source apps do the playing; Ferric does the showing and the controlling.
+It streams nothing itself. The source apps do the playing; Ferronic does the showing and the controlling.
 
-![Ferric Player: folded deck, then the unfolded stack](media/ferric-demo.webp)
+![Ferronic Player: folded deck, then the unfolded stack](media/ferric-demo.webp)
 
 ## The machine
 
@@ -37,8 +37,8 @@ On the portrait deck, expand takes the tape to the whole screen. The landscape b
 - One deck for YouTube Music, Apple Music, and local files, with per source last track memory in the dual wells
 - A landscape personal player body that runs full screen with the system bars hidden, haptic piano keys that travel, and hold to wind on FF and REW where the session offers seeking
 - Real transport everywhere; seek, shuffle, and repeat appear only where the playing app's session actually offers them
-- An EQ button that opens your own system wide equalizer app (chosen once, remembered; long press to change). Ferric does not pretend to equalize another app's audio
-- Bluetooth and headset controls relayed through Ferric's own media session, so the buttons reach the live deck from either library, and the lock screen shows one consistent controller
+- An EQ button that opens your own system wide equalizer app (chosen once, remembered; long press to change). Ferronic does not pretend to equalize another app's audio
+- Bluetooth and headset controls relayed through Ferronic's own media session, so the buttons reach the live deck from either library, and the lock screen shows one consistent controller
 - A receiver sleep timer (15, 30, 45, 60 minutes) on the stack
 - Orientation lock (auto, portrait, landscape) in Settings
 - Meters that read the real audio for local files; for streams, where Android shares no audio, the displays are synthesized and claim nothing else
@@ -64,7 +64,7 @@ Release signing is read from a git ignored `signing.properties` (storeFile, stor
 
 ## Credits
 
-Ferric Player is built on [Foldman](https://github.com/deveshrai/Foldman) by deveshrai, used under the Apache License 2.0; see LICENSE and NOTICE. The component stack, dual well deck, bridge media session, and the rest of the Ferric treatment are the work of Protech Prime Consulting.
+Ferronic Player is built on [Foldman](https://github.com/deveshrai/Foldman) by deveshrai, used under the Apache License 2.0; see LICENSE and NOTICE. The component stack, dual well deck, bridge media session, and the rest of the Ferronic treatment are the work of Protech Prime Consulting.
 
 YouTube Music is a trademark of Google LLC. Apple Music is a trademark of Apple Inc. This project is not affiliated with, endorsed by, or sponsored by Google or Apple. All deck artwork is original and drawn in code; no manufacturer's industrial design or brand marks are reproduced. Any resemblance to the great machines of the cassette era is a tribute, and is intended as one.
 

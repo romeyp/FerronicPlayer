@@ -570,7 +570,7 @@ private fun DrawScope.drawFullCassette(
     )
     // The maker's name printed on the label band under the window, the way real tapes carry it.
     drawMmText(
-        measurer, "FERRIC", (SHELL_W - 30f) / 2f, 46.2f, 2.6f, 30f,
+        measurer, "FERRONIC", (SHELL_W - 30f) / 2f, 46.2f, 2.6f, 30f,
         TextStyle(
             fontFamily = FontFamily.SansSerif, fontWeight = FontWeight.Black,
             color = if (light) DeckColors.Ink.copy(alpha = 0.6f) else Color.White.copy(alpha = 0.55f),

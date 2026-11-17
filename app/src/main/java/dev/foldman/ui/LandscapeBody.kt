@@ -142,7 +142,7 @@ fun LandscapeDeck(
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
                     Column {
-                        Wordmark("FERRIC", 22.sp)
+                        Wordmark("FERRONIC", 22.sp)
                         Text(
                             "STEREO CASSETTE PLAYER",
                             style = EngravedCaps.copy(fontSize = 7.5.sp, color = Color(0xFF83868D)),

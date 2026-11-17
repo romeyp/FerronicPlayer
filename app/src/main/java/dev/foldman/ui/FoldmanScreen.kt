@@ -425,7 +425,7 @@ private fun CoverDeck(
             verticalArrangement = Arrangement.spacedBy(10.dp),
         ) {
             Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-                Wordmark("FERRIC PLAYER", 22.sp)
+                Wordmark("FERRONIC PLAYER", 22.sp)
                 Spacer(Modifier.weight(1f))
                 Text("STEREO CASSETTE DECK", style = OnDarkMetal.copy(fontSize = 8.sp))
             }
@@ -578,7 +578,7 @@ private fun DeckBand(ui: DeckUi, anim: DeckAnimations, deck: DeckControls, vm: D
                 Spacer(Modifier.weight(1f))
                 Text("FM-F8 · STEREO CASSETTE PLAYER", style = OnEnamel.copy(fontSize = 8.sp))
                 Spacer(Modifier.width(16.dp))
-                Wordmark("FERRIC PLAYER", 26.sp)
+                Wordmark("FERRONIC PLAYER", 26.sp)
             }
             Spacer(Modifier.height(10.dp))
             Row(Modifier.weight(1f).fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
